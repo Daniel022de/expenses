@@ -1,7 +1,7 @@
 # Aplicativo de Controle de Gastos
 
 Este aplicativo de estudo foi desenvolvido com o objetivo de simplificar o gerenciamento de despesas pessoais. 
-Desenvolvida em Flutter, com foco na usabilidade e experiência do usuário.
+Desenvolvido em Flutter, com foco na usabilidade e experiência do usuário.
 
 ## Recursos Principais
 
